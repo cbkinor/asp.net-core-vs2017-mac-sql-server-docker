@@ -2,38 +2,38 @@
 
 ## Tutorials:
 
-- [Mashup: SQL Server on Linux in Docker on a Mac with Visual Studio Code](http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/)
--  By: Julie Lerman
+* [Mashup: SQL Server on Linux in Docker on a Mac with Visual Studio Code](http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/)
+    - By: Julie Lerman
 
-- [Getting started with ASP.NET Core MVC and Visual Studio for Mac](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/start-mvc)
--  By: Rick Anderson
+* [Getting started with ASP.NET Core MVC and Visual Studio for Mac](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/start-mvc)
+    - By: Rick Anderson
 
-#### By Chris Kuiper
+#### Completed by: Chris Kuiper
 
 ## Description
 
-_This tutorial creates a movie web app using asp.net core, Sql Server 2017, Docker, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac._
+This tutorial creates a movie web app using asp.net core, Sql Server 2017, Docker, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac._
 
 ## Setup/Installation Requirements
-- Sql Server 2017 in Docker
-- Clone the repository
-- Open in visual studio
-- Restore packages
-- Run without debugging
+* Sql Server 2017 in Docker
+* Clone the repository
+* Open in visual studio
+* Restore packages
+* Run without debugging
 
 ## Known Bugs
-_No known bugs!_
+No known bugs!
 
 ## Technologies Used
 
-- C#
-- ASP.NET Core
-- Visual Studio 2017 Community for mac
-- Docker
-- Sql Server 2017
+* C#
+* ASP.NET Core
+* Visual Studio 2017 Community for mac
+* Docker
+* Sql Server 2017
 
 ## Support and contact details
-_If any contact is needed you can reach me at my email at cbkinor@gmail.com_
+If any contact is needed you can reach me at my email at cbkinor@gmail.com_
 
 ### License
 
