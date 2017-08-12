@@ -12,7 +12,7 @@
 
 ## Description
 
-This tutorial creates a movie web app using asp.net core, Sql Server 2017, Docker, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac._
+This tutorial creates a movie web app using asp.net core, Sql Server 2017, Docker, Entity Framework, Migrations and Scaffolding using Visual Studio 2017 Community for mac.
 
 ## Setup/Installation Requirements
 * Sql Server 2017 in Docker
@@ -33,7 +33,7 @@ No known bugs!
 * Sql Server 2017
 
 ## Support and contact details
-If any contact is needed you can reach me at my email at cbkinor@gmail.com_
+If any contact is needed you can reach me at my email at cbkinor@gmail.com
 
 ### License
 
