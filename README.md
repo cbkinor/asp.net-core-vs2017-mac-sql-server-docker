@@ -1,10 +1,11 @@
-# asp.net-core-vs2017-mac-sql-server-docker
-asp.net core web app using Visual Studio 2017 for mac and sql server 2017 in docker
+# asp.net core web app using Visual Studio 2017 for mac and sql server 2017 in docker
 
-Tutorial - Create a web app with ASP.NET Core MVC using Visual Studio 2017 for mac
+## Tutorials:
 
-Getting started with ASP.NET Core MVC and Visual Studio for Mac
-- url: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/start-mvc
+- [Mashup: SQL Server on Linux in Docker on a Mac with Visual Studio Code](http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/)
+-  By: Julie Lerman
+
+- [Getting started with ASP.NET Core MVC and Visual Studio for Mac](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/start-mvc)
 -  By: Rick Anderson
 
 #### By Chris Kuiper
