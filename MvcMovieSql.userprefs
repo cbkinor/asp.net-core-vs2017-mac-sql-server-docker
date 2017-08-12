@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{960CF620-D88A-43DB-BB08-1AD450568893}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovieSql/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovieSql/Models/DBinitialize.cs">
     <Files>
       <File FileName="MvcMovieSql/Startup.cs" Line="36" Column="118" />
       <File FileName="MvcMovieSql/Models/Movie.cs" Line="2" Column="1" />
-      <File FileName="MvcMovieSql/MvcMovieSql.csproj" Line="17" Column="97" />
+      <File FileName="MvcMovieSql/MvcMovieSql.csproj" Line="1" Column="1" />
       <File FileName="MvcMovieSql/Models/MvcMovieSqlContext.cs" Line="16" Column="1" />
       <File FileName="MvcMovieSql/appsettings.json" Line="3" Column="19" />
+      <File FileName="MvcMovieSql/Models/DBinitialize.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

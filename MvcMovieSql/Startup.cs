@@ -61,6 +61,7 @@ namespace MvcMovieSql
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+            DBinitialize.EnsureCreated(app.ApplicationServices);
         }
     }
 }
