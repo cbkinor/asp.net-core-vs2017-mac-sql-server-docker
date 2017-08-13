@@ -1,13 +1,10 @@
 ﻿<Properties StartupConfiguration="{960CF620-D88A-43DB-BB08-1AD450568893}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovieSql/Models/SeedData.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovieSql/Views/Movies/Index.cshtml">
     <Files>
-      <File FileName="MvcMovieSql/Startup.cs" Line="1" Column="1" />
-      <File FileName="MvcMovieSql/Models/Movie.cs" Line="1" Column="1" />
-      <File FileName="MvcMovieSql/MvcMovieSql.csproj" Line="1" Column="1" />
-      <File FileName="MvcMovieSql/Models/MvcMovieSqlContext.cs" Line="1" Column="1" />
-      <File FileName="MvcMovieSql/appsettings.json" Line="1" Column="1" />
-      <File FileName="MvcMovieSql/Models/DBinitialize.cs" Line="1" Column="1" />
-      <File FileName="MvcMovieSql/Models/SeedData.cs" Line="1" Column="1" />
+      <File FileName="MvcMovieSql/Models/Movie.cs" Line="10" Column="9" />
+      <File FileName="MvcMovieSql/Views/Movies/Index.cshtml" Line="1" Column="19" />
+      <File FileName="MvcMovieSql/Controllers/MoviesController.cs" Line="50" Column="1" />
+      <File FileName="MvcMovieSql/Models/MovieGenreViewModel.cs" Line="4" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
